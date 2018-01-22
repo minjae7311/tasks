@@ -1,4 +1,4 @@
-# ktds University 12기 <자바 기반 데이터 사이언티스트 양성과제>
+# ktds University 12기 <자바 기반 데이터 사이언티스트 양성 과정>
 
 ## 2018.01.22 과제
 1. Github, Gmail 가입하기
