@@ -5,12 +5,12 @@
 2. http://atom.io 에서 Atom Editor 설치하기
 3. Monaco(https://github.com/todylu/monaco.ttf) 혹은 Firacode(https://github.com/tonsky/FiraCode/tree/master/distr/ttf) 폰트 설치하기
 
-  - Firacode 아래 폰트 다운로드 후 모두 설치<br/>
-     - FiraCode-Bold.ttf<br/>
-     - FiraCode-Light.ttf<br/>
-     - FiraCode-Medium.ttf<br/>
-     - FiraCode-Regular.ttf<br/>
-     - FiraCode-Retina.ttf
+- Firacode 설치할 경우 아래 폰트 다운로드 후 모두 설치<br/>
+- FiraCode-Bold.ttf<br/>
+- FiraCode-Light.ttf<br/>
+- FiraCode-Medium.ttf<br/>
+- FiraCode-Regular.ttf<br/>
+- FiraCode-Retina.ttf
 
 ## 2018.01.22 과제
 1. Github, Gmail 가입하기
